@@ -14,6 +14,8 @@ _""Men who try something and fail are infinitely better than those who try nothi
 ## Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)]()
+[![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)]()
+
 
 
 <!--
