@@ -16,7 +16,7 @@ _""Men who try something and fail are infinitely better than those who try nothi
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)]()
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)]()
 
-[![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c69de20f-2d87-457e-acfe-46b913792fa1.jpeg?v=1784444052)](https://www.boot.dev/certificates/c69de20f-2d87-457e-acfe-46b913792fa1)
+
 
 
 
